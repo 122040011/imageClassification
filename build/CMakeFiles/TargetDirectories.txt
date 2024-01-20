@@ -1,0 +1,3 @@
+/Users/feivelehren/CLionProjects/Project3002/build/CMakeFiles/Project3002.dir
+/Users/feivelehren/CLionProjects/Project3002/build/CMakeFiles/edit_cache.dir
+/Users/feivelehren/CLionProjects/Project3002/build/CMakeFiles/rebuild_cache.dir
